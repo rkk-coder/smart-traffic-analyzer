@@ -1,0 +1,5 @@
+[
+  {"id": 1, "x": 10, "y": 5, "speed": 60, "direction": "N"},
+  {"id": 2, "x": 12, "y": 6, "speed": 62, "direction": "N"},
+  {"id": 3, "x": 30, "y": 40, "speed": 20, "direction": "S"}
+]
